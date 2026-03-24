@@ -1,7 +1,8 @@
-🐍 Python Starter: Pasta Básica
+<h1>🐍 Python Starter: Pasta Básica</h1>
+
 Este repositório contém os fundamentos essenciais da linguagem Python. É o "arroz com feijão" (ou a massa básica) para quem está começando a programar.
 
-🚀 Comandos Básicos
+<h2>🚀 Comandos Básicos</h2>
 Os primeiros passos para interagir com o interpretador:
 
 print(): Exibe informações no console.
