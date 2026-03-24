@@ -1,1 +1,16 @@
-# Python-Banco-de-Dados-ETL-Avan-ado-e-Automa-o-Web
+🐍 Python Starter: Pasta Básica
+Este repositório contém os fundamentos essenciais da linguagem Python. É o "arroz com feijão" (ou a massa básica) para quem está começando a programar.
+
+🚀 Comandos Básicos
+Os primeiros passos para interagir com o interpretador:
+
+print(): Exibe informações no console.
+
+input(): Recebe dados do usuário.
+
+type(): Verifica o tipo de dado de uma variável.
+
+len(): Retorna o tamanho (comprimento) de um objeto.
+
+📋 Manipulação de Listas
+As listas são coleções mutáveis e ordenadas. Aqui estão os métodos que você mais vai usar:
